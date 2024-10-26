@@ -21,15 +21,17 @@ Our project, Pet Guardian AI, is an AI-powered system designed to monitor and as
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
+![architecture_diagram_pet_guardian_AI](https://github.com/user-attachments/assets/c8274c0c-72fc-4bcf-8ec6-ce126125f6b2)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
+![1st page](https://github.com/user-attachments/assets/1ffa7bcd-ce3e-41be-a343-0aa983dfd082)
 
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
 
 ![dieatery chart](https://github.com/user-attachments/assets/5c0563a6-1c19-407d-a616-ba4c914dc5d9)
 
